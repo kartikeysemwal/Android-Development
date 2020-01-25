@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SavePlace</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_to_display_location">Map</string>
+</resources>
